@@ -6,7 +6,7 @@
 :sunny: **HTML5**
 :sunny: **CSS3**
 :sunny: **JavaScript**
-Currently learning **React JS**
+ - Currently learning **React JS**
 
 👨‍💻 All of my projects are available at [https://github.com/cdocchio](https://github.com/cdocchio).
 
