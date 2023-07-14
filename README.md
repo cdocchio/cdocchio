@@ -1,5 +1,5 @@
 # Hi :world_map:
-## My name is Constanza D'Occhio, i'm a Jr. Front-end
+## My name is Constanza D'Occhio, i'm a Full Stack Developer
 
 **Skills**
 
