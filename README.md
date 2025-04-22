@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **Automation Testing and Manual Testing**
+- 🌱 I’m currently learning/working on **Automation Testing and Manual Testing**
 
 - 👨‍💻 All of my projects are available at [github.com/cdocchio](github.com/cdocchio)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **docchioconni@gmail.com**
 
